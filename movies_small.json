@@ -1,0 +1,45 @@
+{
+    "records" : [
+    {
+      "Rank": 1,
+      "Title": "Guardians of the Galaxy",
+      "Genre": "Action,Adventure,Sci-Fi",
+      "Description": "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
+      "Director": "James Gunn",
+      "Actors": "Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana",
+      "Year": 2014,
+      "Runtime (Minutes)": 121,
+      "Rating": 8.1,
+      "Votes": 757074,
+      "Revenue (Millions)": 333.13,
+      "Metascore": 76
+    },
+    {
+      "Rank": 2,
+      "Title": "Prometheus",
+      "Genre": "Adventure,Mystery,Sci-Fi",
+      "Description": "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone.",
+      "Director": "Ridley Scott",
+      "Actors": "Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron",
+      "Year": 2012,
+      "Runtime (Minutes)": 124,
+      "Rating": 7,
+      "Votes": 485820,
+      "Revenue (Millions)": 126.46,
+      "Metascore": 65
+    },
+    {
+      "Rank": 3,
+      "Title": "Split",
+      "Genre": "Horror,Thriller",
+      "Description": "Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th.",
+      "Director": "M. Night Shyamalan",
+      "Actors": "James McAvoy, Anya Taylor-Joy, Haley Lu Richardson, Jessica Sula",
+      "Year": 2016,
+      "Runtime (Minutes)": 117,
+      "Rating": 7.3,
+      "Votes": 157606,
+      "Revenue (Millions)": 138.12,
+      "Metascore": 62
+    }]
+}
